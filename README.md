@@ -5,6 +5,7 @@ Single Particle Model (SPM) of a 2.5 Ah Lithium Iron Phosphate (LFP).
 ## Files
 * `LFPCaseStudy_ZahidSarigol.slx`: Simulink simulation file.
 * `LFP Case Study Zahid Sarigol.pdf`: The final report.
+* The png plot files.
 
 ## How to Run the Model
 1. Open MATLAB.
